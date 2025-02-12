@@ -123,3 +123,5 @@ cython_debug/
 .vscode/
 
 .ruff_cache/
+
+src/dataset/out/*
