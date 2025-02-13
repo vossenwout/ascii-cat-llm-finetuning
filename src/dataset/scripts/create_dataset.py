@@ -41,5 +41,5 @@ def inspect_dataset(path: Path) -> None:
 
 
 if __name__ == "__main__":
-    create_dataset(path=Path("src/dataset/ascii_art/animals/cat"), version_tag="cat_1")
-    inspect_dataset(path=Path("src/dataset/out/ascii_art_cat_1.parquet"))
+    # create_dataset(path=Path("src/dataset/ascii_art/animals/cat"), version_tag="cat_1")
+    inspect_dataset(path=Path("src/dataset/out/pookie3000/ascii-art-animals"))
