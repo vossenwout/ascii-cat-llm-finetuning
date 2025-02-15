@@ -9,7 +9,9 @@ def create_dataset(path: Path, version_tag: str) -> None:
         txt_file = file
         meta_file = file.parent / "meta.json"
         paths.append({"ascii": txt_file, "meta": meta_file})
-    paths.sort(key=lambda x: x["ascii"])
+    paths.sort(
+        key=lambda x: (x["ascii"].parent.parents[0], int(x["ascii"].parent.name))
+    )
 
     dataset_items = []
     for path in paths:
@@ -17,7 +19,9 @@ def create_dataset(path: Path, version_tag: str) -> None:
             ascii_art = f.read()
         with open(path["meta"], "r") as f:
             meta = json.load(f)
-        dataset_items.append({"ascii": ascii_art, **meta})
+        dataset_items.append(
+            {"ascii": ascii_art, "local_path": str(path["ascii"]), **meta}
+        )
 
     df = pd.DataFrame(dataset_items)
 
@@ -27,19 +31,5 @@ def create_dataset(path: Path, version_tag: str) -> None:
     print(f"Dataset successfully saved to {output_path}")
 
 
-def inspect_dataset(path: Path) -> None:
-    df = pd.read_parquet(path)
-    print("Path: ", path)
-    print(f"Total number of items: {len(df)}")
-
-    for index, row in df.head(5).iterrows():
-        print(f"-----------item {index} -------------------- \n")
-        print(row["ascii"])
-        print("\n")
-        print("description: ", row["content"])
-        print("")
-
-
 if __name__ == "__main__":
-    # create_dataset(path=Path("src/dataset/ascii_art/animals/cat"), version_tag="cat_1")
-    inspect_dataset(path=Path("src/dataset/out/pookie3000/ascii-art-animals"))
+    create_dataset(path=Path("src/dataset/ascii_art/"), version_tag="cat_3")

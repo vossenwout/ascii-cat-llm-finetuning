@@ -41,5 +41,5 @@ if __name__ == "__main__":
     # )
     dataset = pull_dataset(
         dataset_name="pookie3000/ascii-art-animals",
-        output_path=Path("src/dataset/out/pookie3000/ascii-art-animals"),
+        output_path=Path("src/dataset/in/pookie3000/ascii-art-animals"),
     )

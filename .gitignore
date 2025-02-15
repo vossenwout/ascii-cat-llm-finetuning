@@ -118,10 +118,12 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-
 # VS Code
 .vscode/
 
 .ruff_cache/
 
 src/dataset/out/*
+src/dataset/in/*
+
+src/inference/local_models/*
