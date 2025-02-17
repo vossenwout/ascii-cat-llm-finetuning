@@ -1,3 +1,7 @@
 {
-    "content": "back of cat"
+    "style": "detailed",
+    "pose": "running",
+    "orientation": "back",
+    "size": "medium",
+    "body": "full"  
 }

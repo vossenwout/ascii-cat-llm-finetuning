@@ -1,3 +1,7 @@
 {
-    "content": "kitty that lost 9 lives"
+    "style": "detailed",
+    "pose": "flying",
+    "orientation": "center",
+    "size": "large",
+    "body": "full"  
 }

@@ -20,7 +20,12 @@ def create_dataset(path: Path, version_tag: str) -> None:
         with open(path["meta"], "r") as f:
             meta = json.load(f)
         dataset_items.append(
-            {"ascii": ascii_art, "local_path": str(path["ascii"]), **meta}
+            {
+                "ascii": ascii_art,
+                "creature": str(path["ascii"].parent.parent.name),
+                "local_path": str(path["ascii"]),
+                **meta,
+            }
         )
 
     df = pd.DataFrame(dataset_items)
@@ -32,4 +37,4 @@ def create_dataset(path: Path, version_tag: str) -> None:
 
 
 if __name__ == "__main__":
-    create_dataset(path=Path("src/dataset/ascii_art/"), version_tag="cat_3")
+    create_dataset(path=Path("src/dataset/ascii_art/animals/cat"), version_tag="cat_2")

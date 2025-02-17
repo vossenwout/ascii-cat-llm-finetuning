@@ -1,3 +1,7 @@
 {
-    "content": "fat cat face"
+    "style": "simple",
+    "pose": "none",
+    "orientation": "center",
+    "size": "medium",
+    "body": "head-only"  
 }

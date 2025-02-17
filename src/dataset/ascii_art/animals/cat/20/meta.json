@@ -1,3 +1,7 @@
 {
-    "content": "cat walking"
+    "style": "detailed",
+    "pose": "sneaking",
+    "orientation": "left-side",
+    "size": "small",
+    "body": "full"  
 }

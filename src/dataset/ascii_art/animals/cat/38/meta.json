@@ -1,3 +1,7 @@
 {
-    "content": "cat cute"
+    "style": "simplistic",
+    "pose": "sitting",
+    "orientation": "center",
+    "size": "small",
+    "body": "full"  
 }

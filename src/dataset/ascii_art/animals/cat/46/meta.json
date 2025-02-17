@@ -1,3 +1,7 @@
 {
-    "content": "sad cat"
+    "style": "detailed",
+    "pose": "standing",
+    "orientation": "right-side",
+    "size": "large",
+    "body": "full"  
 }

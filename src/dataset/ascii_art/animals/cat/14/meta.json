@@ -1,3 +1,7 @@
 {
-    "content": "cat sleeping"
+    "style": "detailed",
+    "pose": "sleeping",
+    "orientation": "left-side",
+    "size": "small",
+    "body": "full"  
 }

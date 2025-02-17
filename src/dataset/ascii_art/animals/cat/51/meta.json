@@ -1,3 +1,7 @@
 {
-    "content": "cat long tail"
+    "style": "detailed",
+    "pose": "standing",
+    "orientation": "left-side",
+    "size": "medium",
+    "body": "full"  
 }

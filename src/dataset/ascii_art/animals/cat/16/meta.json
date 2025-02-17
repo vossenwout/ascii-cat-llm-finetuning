@@ -1,3 +1,7 @@
 {
-    "content": "cat sneaking"
+    "style": "detailed",
+    "pose": "standing",
+    "orientation": "right-side",
+    "size": "small",
+    "body": "full"  
 }

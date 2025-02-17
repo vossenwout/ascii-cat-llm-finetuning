@@ -1,3 +1,7 @@
 {
-    "content": "cat standing"
+    "style": "detailed",
+    "pose": "standing",
+    "orientation": "center",
+    "size": "large",
+    "body": "full"  
 }

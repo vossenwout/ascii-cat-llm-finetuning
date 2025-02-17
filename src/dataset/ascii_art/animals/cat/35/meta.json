@@ -1,3 +1,7 @@
 {
-    "content": "cat saying meow"
+    "style": "detailed",
+    "pose": "standing",
+    "orientation": "center",
+    "size": "large",
+    "body": "full"  
 }

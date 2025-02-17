@@ -10,7 +10,6 @@ load_dotenv(
 )
 
 
-# upload dataset to huggingface
 def upload_dataset(path: Path, dataset_name: str) -> None:
     hf_token = os.getenv("HUGGING_FACE_TOKEN")
     if not hf_token:
@@ -21,9 +20,7 @@ def upload_dataset(path: Path, dataset_name: str) -> None:
     dataset.push_to_hub(dataset_name)
 
 
-# pull dataset from huggingface and save as parquet
 def pull_dataset(dataset_name: str, output_path: Path) -> Dataset:
-    # Ensure the output path has .parquet extension
     if not str(output_path).endswith(".parquet"):
         output_path = Path(str(output_path) + ".parquet")
 
@@ -35,11 +32,11 @@ def pull_dataset(dataset_name: str, output_path: Path) -> Dataset:
 
 
 if __name__ == "__main__":
-    # upload_dataset(
-    #    path=Path("src/dataset/out/ascii_art_cat_1.parquet"),
-    #    dataset_name="ascii-art-animals",
-    # )
-    dataset = pull_dataset(
-        dataset_name="pookie3000/ascii-art-animals",
-        output_path=Path("src/dataset/in/pookie3000/ascii-art-animals"),
+    upload_dataset(
+        path=Path("src/dataset/out/ascii_art_cat_2.parquet"),
+        dataset_name="ascii-art-cat-2",
     )
+    # dataset = pull_dataset(
+    #    dataset_name="pookie3000/ascii-art-animals",
+    #    output_path=Path("src/dataset/in/pookie3000/ascii-art-animals"),
+    # )

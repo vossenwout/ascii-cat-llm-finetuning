@@ -1,3 +1,7 @@
 {
-    "content": "cat"
+    "style": "detailed",
+    "pose": "sitting",
+    "orientation": "left-side",
+    "size": "medium",
+    "body": "full"  
 }

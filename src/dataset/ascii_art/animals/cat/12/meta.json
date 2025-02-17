@@ -1,3 +1,7 @@
 {
-    "content": "cat face"
+    "style": "simple",
+    "pose": "none",
+    "orientation": "center",
+    "size": "small",
+    "body": "head-only"  
 }

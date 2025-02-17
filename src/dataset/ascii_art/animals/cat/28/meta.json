@@ -1,3 +1,7 @@
 {
-    "content": "fat cat"
+    "style": "detailed",
+    "pose": "standing",
+    "orientation": "center",
+    "size": "medium",
+    "body": "full"  
 }
