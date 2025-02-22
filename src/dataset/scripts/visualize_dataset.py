@@ -20,5 +20,5 @@ def visualize_parquet_dataset(dataset_parquet_path: Path) -> None:
 
 
 if __name__ == "__main__":
-    dataset_parquet_path = Path("src/dataset/out/ascii_art_cat_2.parquet")
+    dataset_parquet_path = Path("src/dataset/out/ascii_art_cat_3.parquet")
     visualize_parquet_dataset(dataset_parquet_path)

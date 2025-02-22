@@ -33,8 +33,8 @@ def pull_dataset(dataset_name: str, output_path: Path) -> Dataset:
 
 if __name__ == "__main__":
     upload_dataset(
-        path=Path("src/dataset/out/ascii_art_cat_2.parquet"),
-        dataset_name="ascii-art-cat-2",
+        path=Path("src/dataset/out/ascii_art_cat_3.parquet"),
+        dataset_name="ascii-art-cat-3",
     )
     # dataset = pull_dataset(
     #    dataset_name="pookie3000/ascii-art-animals",

@@ -37,4 +37,4 @@ def create_dataset(path: Path, version_tag: str) -> None:
 
 
 if __name__ == "__main__":
-    create_dataset(path=Path("src/dataset/ascii_art/animals/cat"), version_tag="cat_2")
+    create_dataset(path=Path("src/dataset/ascii_art/animals/cat"), version_tag="cat_3")
