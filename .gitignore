@@ -129,3 +129,4 @@ src/dataset/in/*
 src/inference/local_models/*
 
 src/dataset/ascii_art
+src/local_models/*

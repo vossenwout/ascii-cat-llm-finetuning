@@ -3,9 +3,9 @@
 import modal
 import os
 
-app = modal.App("convert_gguf")
+app = modal.App("convert_gguf_2")
 
-unsloth_image = modal.Image.from_dockerfile("src/finetuning/modal/Dockerfile")
+unsloth_image = modal.Image.from_dockerfile("src/conversion/modal/Dockerfile")
 
 
 @app.function(
@@ -28,6 +28,7 @@ def convert_base_model_gguf(hf_model_repo: str, save_model_repo: str) -> str:
     model.push_to_hub_gguf(
         save_model_repo,
         tokenizer,
+        quantization_method="f16",
         token=os.environ["HF_ACCESS_TOKEN"],
     )
     return ""
@@ -36,7 +37,7 @@ def convert_base_model_gguf(hf_model_repo: str, save_model_repo: str) -> str:
 @app.local_entrypoint()
 def main():
     hf_model_repo = "unsloth/Meta-Llama-3.1-8B-bnb-4bit"
-    save_model_repo = "pookie3000/Meta-Llama-3.1-8B-bnb-4bit-gguf"
+    save_model_repo = "pookie3000/Meta-Llama-3.1-8B-bnb-4bit-f16-gguf"
     convert_base_model_gguf.remote(
         hf_model_repo=hf_model_repo,
         save_model_repo=save_model_repo,
@@ -44,4 +45,4 @@ def main():
 
 
 # run using
-# modal run src/finetuning/modal/convert_gguf.py
+# modal run src/conversion/modal/convert_gguf.py

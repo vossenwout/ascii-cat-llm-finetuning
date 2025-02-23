@@ -1,0 +1,1451 @@
+pookie3000/cat-ascii-overfit-2-q8_0_merged.gguf
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+    /\__/\
+   /`    '\
+ === 0  0 ===
+   \  --  /
+  /        \
+ /          \
+|            |
+ \  ||  ||  /
+  \_oo__oo_/#######o
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =    6060.74 ms /    20 tokens (  303.04 ms per token,     3.30 tokens per second)
+llama_perf_context_print:        eval time =    5026.78 ms /    57 runs   (   88.19 ms per token,    11.34 tokens per second)
+llama_perf_context_print:       total time =   11130.57 ms /    77 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  /\**/\
+ ( o_o  )_)
+ ,(u  u  ,),
+{}{}{}{}{}{}
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    2550.39 ms /    31 runs   (   82.27 ms per token,    12.15 tokens per second)
+llama_perf_context_print:       total time =    2570.58 ms /    32 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+       (\_/)
+    /  ,-,  \
+   /     Y    \
+  (      ^      )
+   \..-' * -../'
+  /        ^   \
+ |  /`\   /`\  |
+ | /  \_/  \_/  |
+  \__/     \__/ 
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    5985.09 ms /    70 runs   (   85.50 ms per token,    11.70 tokens per second)
+llama_perf_context_print:       total time =    6030.43 ms /    71 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  /\_/\
+ (o.o)
+  (^^)
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    1588.30 ms /    19 runs   (   83.59 ms per token,    11.96 tokens per second)
+llama_perf_context_print:       total time =    1599.42 ms /    20 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  |\__/,|   (`\
+  |o o  |__ _)
+ _.( T   )  `  _
+(___,V  \/  ,_.'
+  '""""""'"'"
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4407.52 ms /    50 runs   (   88.15 ms per token,    11.34 tokens per second)
+llama_perf_context_print:       total time =    4438.61 ms /    51 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  |\__/,|
+  |o o  |
+  ( T   )
+ .^`^--'^.
+ `.  ;  .'  
+ | | | | |
+((_((|))_))
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4189.58 ms /    47 runs   (   89.14 ms per token,    11.22 tokens per second)
+llama_perf_context_print:       total time =    4221.56 ms /    48 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  ^___^
+ " o o "
+ ===X===       _
+  ' " '_     __\\
+ /''''  \___/ __/
+|           /
+("|")__\   |
+"" ""(_____/
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    5213.75 ms /    51 runs   (  102.23 ms per token,     9.78 tokens per second)
+llama_perf_context_print:       total time =    5252.34 ms /    52 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  /\_/\
+  >^.^<.---.
+ (".."   )    \
+  `"'   '--'  //
+      \       //
+       \__`__/'
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    3801.82 ms /    44 runs   (   86.40 ms per token,    11.57 tokens per second)
+llama_perf_context_print:       total time =    3830.68 ms /    45 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+    _     _
+   /\`-"-`/\
+   )` _ _ `(
+  {=   Y   =}
+   \   ^   /
+  /`;'-u-';`\
+ | /       \ |
+/\ ;__\ / _/ /
+\___, )~(,,),)
+ (_(
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    6326.09 ms /    73 runs   (   86.66 ms per token,    11.54 tokens per second)
+llama_perf_context_print:       total time =    6374.33 ms /    74 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+    /\_/\          ___
+   = o_o =_______  /   \
+    __^      __(  /     \____
+  /`=  \_____/   \____   \   \
+  |    |      |    |   |  |___|
+  |    \______|    \   \  |
+  |          |      \   \ \
+  \_______  /        \   \__
+        __/          __/
+  ___/
+/
+\
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =   10955.77 ms /   108 runs   (  101.44 ms per token,     9.86 tokens per second)
+llama_perf_context_print:       total time =   11057.29 ms /   109 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+ascii>
+       |\__-----__/|
+  __\  |           |  __/
+  |.=.  \         /  .=.
+  \  \   \       /   / /
+  /  /   /     \   \ \
+  /  /   /       \   \ \-.__
+  \  \   \       /   /  /
+  /  /   /     \   \ \ \
+  \  \   \_-----/   /  /
+  \  \__\      /   /  /
+  /  |  \____/   /  /
+  /  /  \      \  \ \
+  \  \   \__   /  / /
+  /  /   /   _\  \ \
+  \  \   \   \  \  \ \
+  /  /   /   /  /  / /
+  \  \   \   \  \  llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =   18781.53 ms /   200 runs   (   93.91 ms per token,    10.65 tokens per second)
+llama_perf_context_print:       total time =   18936.90 ms /   201 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+      /\_/\
+ /\  / o o \
+//\\ \~(*)~/
+`  \/   ^ /
+   | \|| || 
+   \ '|| || 
+    \)()-())
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4059.35 ms /    47 runs   (   86.37 ms per token,    11.58 tokens per second)
+llama_perf_context_print:       total time =    4088.59 ms /    48 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+ .       .
+ |\_---_/|
+/   @ @   \
+|    U    |
+\  ._I_.  /
+ `-_____-'
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    3197.66 ms /    37 runs   (   86.42 ms per token,    11.57 tokens per second)
+llama_perf_context_print:       total time =    3222.26 ms /    38 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+        _,'|             _.-''``-...___..--';)
+        /_ \'.      __..-' ,      ,--...--'''
+      <\    .`--'''       `     /'
+        `-';'               ;   ; ;
+  __...--''     ___...--_..'  .;.'
+(,__....----'''       (,..--''
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    7691.87 ms /    87 runs   (   88.41 ms per token,    11.31 tokens per second)
+llama_perf_context_print:       total time =    7750.94 ms /    88 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+        _     _
+       /\`-"-`/\
+      /  ;  ;  \
+     |   w   w |  (___
+      \   Y   /  / . . \
+       \   ^  /  \ ) )  /
+       ||  |||   \_/  \
+       ((|((()))  /  \  \
+         \_______/    \__/
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    7663.62 ms /    91 runs   (   84.22 ms per token,    11.87 tokens per second)
+llama_perf_context_print:       total time =    7723.93 ms /    92 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+   |\__/,|   (`\
+   |o o  |__ _)
+ _.( T   )  `  /
+((_ `^--' /_<  \
+`` `-'(((/  (((/
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4194.25 ms /    50 runs   (   83.88 ms per token,    11.92 tokens per second)
+llama_perf_context_print:       total time =    4224.95 ms /    51 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+   /\_/\
+   >^.^<.---.
+  _'-`-'     )\
+ (6--\ |--\ (`.`-.
+     --'  --'  ``-
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4012.53 ms /    46 runs   (   87.23 ms per token,    11.46 tokens per second)
+llama_perf_context_print:       total time =    4042.34 ms /    47 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+ /\_/\
+( o.o )
+ > ^ <
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    1678.28 ms /    17 runs   (   98.72 ms per token,    10.13 tokens per second)
+llama_perf_context_print:       total time =    1688.27 ms /    18 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+ascii>
+    /\_____/\
+   /  o   o  \
+  ( ==  ^  == )
+   )         (
+  (           )
+ ( (  )   (  ) )
+(__(__)___(__)__)
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4905.05 ms /    52 runs   (   94.33 ms per token,    10.60 tokens per second)
+llama_perf_context_print:       total time =    4940.62 ms /    53 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+ascii>
+        |\__/,|   (`\
+        |o o  |__ _)
+  ___,/-=∀=I''` _/'
+  \ ' .   , , ;/;
+  (  _    \ | ||
+  `) _    || || 
+  '  (     || ||
+    ) )_   || || 
+    \__  )_))_))/
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    7566.79 ms /    88 runs   (   85.99 ms per token,    11.63 tokens per second)
+llama_perf_context_print:       total time =    7625.17 ms /    89 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+   |\__/,|   (`\
+   |o o  |__ _)
+ _.( T   )  `  /
+((_ `^--' /_<  \
+`` `-'(((/  (((/
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4252.96 ms /    50 runs   (   85.06 ms per token,    11.76 tokens per second)
+llama_perf_context_print:       total time =    4285.19 ms /    51 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+         ,_
+(\(\      \\
+/.. \      ||
+\Y_, '----.//
+    )        /
+    |   \_/  ;
+    \\ |\`\ |
+    ((_/(_(_/
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4052.62 ms /    48 runs   (   84.43 ms per token,    11.84 tokens per second)
+llama_perf_context_print:       total time =    4082.99 ms /    49 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+<ascii>
+    /\__/\
+   /`    '\
+ === 0  0 ===
+   \  --  /
+  /        \
+ /          \
+|            |
+ \  ||  ||  /
+  \_oo__oo_/#######o
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    5660.07 ms /    58 runs   (   97.59 ms per token,    10.25 tokens per second)
+llama_perf_context_print:       total time =    5700.43 ms /    59 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+ /\     /\
+{  `---'  }
+{  O   O  }
+~~>  V  <~~
+ \  \|/  /
+  `-----'____
+  /     \    \_
+ {       }\  )_\_   _
+ |  \_/  |/ /  \_\_/ )
+  \__/  /(_/     \__/
+    (__/
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    7428.14 ms /    87 runs   (   85.38 ms per token,    11.71 tokens per second)
+llama_perf_context_print:       total time =    7485.95 ms /    88 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+    _     _
+   /\`-"-`/\
+   )` _ _ `(
+  {=   Y   =}
+   \   ^   /
+  /`;'-u-';`\
+ | /       \ |
+/\ ;__\ / _/ /
+\___, )~(,,),)
+ (_(
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    6365.94 ms /    73 runs   (   87.20 ms per token,    11.47 tokens per second)
+llama_perf_context_print:       total time =    6413.85 ms /    74 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+   _,
+  | \
+  \\ \
+   \ \ \
+    \ \ \
+     \ \/ /
+     || ||
+     || ||
+     || ||
+     \   /
+  _._ | | | _._ 
+  )\\_))|((((_/((/
+  )\\ ( ) ( ) /
+  ) )/\ /.\ ((
+  ( ( ( ( ) ) )
+  ) ) ) ) ) ) )
+  ( ( ( ( ( ( ( 
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    8823.56 ms /   102 runs   (   86.51 ms per token,    11.56 tokens per second)
+llama_perf_context_print:       total time =    8894.91 ms /   103 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  A_A
+ (-.-)
+  |-|  
+ /   \ 
+|     |  __
+|  || | |  \___
+\_||_/_/
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    3555.02 ms /    42 runs   (   84.64 ms per token,    11.81 tokens per second)
+llama_perf_context_print:       total time =    3581.10 ms /    43 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  |\__/,|   (`\
+  |o o  |__ _)
+._( T   )  ` _)
+((_ `^--' /_<  \  _
+`` `-'(((/  (((/)
+
+
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4671.21 ms /    53 runs   (   88.14 ms per token,    11.35 tokens per second)
+llama_perf_context_print:       total time =    4705.96 ms /    54 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  /\-/\
+ /a a  \                                 _
+=\ Y  =/-~~~~~~-,_______________________/ )
+  '^--'          ________________________/
+   \           /
+    ||  |---'\  \  
+    (_(__|   ((__|  
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    5085.45 ms /    61 runs   (   83.37 ms per token,    11.99 tokens per second)
+llama_perf_context_print:       total time =    5124.42 ms /    62 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+   |\---/|
+   | ,_, |
+    \_`_/-..----.
+ ___/ `   ' ,""+ \  
+(__...'   __\    |`.___.';
+  (_,...'(_,.`__)/'.....+
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    5287.45 ms /    58 runs   (   91.16 ms per token,    10.97 tokens per second)
+llama_perf_context_print:       total time =    5325.11 ms /    59 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  .       .         
+  \`-"'"-'/
+   } 6 6 {       
+  =.  Y  ,=   
+(""-'***`-"")  
+  `-/     \-'            
+    (  )-(  )===' 
+    ""   ""
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    5252.71 ms /    62 runs   (   84.72 ms per token,    11.80 tokens per second)
+llama_perf_context_print:       total time =    5291.95 ms /    63 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+ascii>
+   |\_._/|  
+   | o o | 
+   (  T  ) 
+  .^`-^-'^.    
+  `.  ;  .'  
+  | | | | |      
+ ((_((|))_))  
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4864.81 ms /    56 runs   (   86.87 ms per token,    11.51 tokens per second)
+llama_perf_context_print:       total time =    4901.35 ms /    57 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  |\__/,|   (`\
+  |_ _  |.--.) )
+  ( T   )     /
+ (((^_(((/(((_>
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    3689.61 ms /    38 runs   (   97.10 ms per token,    10.30 tokens per second)
+llama_perf_context_print:       total time =    3713.50 ms /    39 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+ascii>
+  |\_._/|
+  |-o^o-|
+  (  T  )
+ .^`-^-'^.
+ `.  ;  .'
+ | | | | |
+((_((|))_))
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4714.27 ms /    50 runs   (   94.29 ms per token,    10.61 tokens per second)
+llama_perf_context_print:       total time =    4747.74 ms /    51 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+      /\_/\
+ /\  / o o \
+//\\ \~(*)~/
+`  \/   ^ /
+   | \|| || 
+   \ '|| ||
+    \)()-())
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4035.22 ms /    46 runs   (   87.72 ms per token,    11.40 tokens per second)
+llama_perf_context_print:       total time =    4064.91 ms /    47 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+\    /\
+ )  ( ')
+(  /  )
+ \(__)|
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    2052.54 ms /    24 runs   (   85.52 ms per token,    11.69 tokens per second)
+llama_perf_context_print:       total time =    2067.27 ms /    25 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  |\__/,|   (`\
+  |_ _  |.--.) )
+  ( T   )     /
+ (((^_(((/(((_>
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    3161.75 ms /    38 runs   (   83.20 ms per token,    12.02 tokens per second)
+llama_perf_context_print:       total time =    3185.38 ms /    39 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+           .--.
+          (    )
+          _  _ 
+          \__) 
+          __/
+   \      /  
+    \    /   
+     \  /    
+      \ \    
+       \ \  
+        \ \
+        ( ( 
+        ) ) )
+   ______)_))
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    5529.88 ms /    65 runs   (   85.08 ms per token,    11.75 tokens per second)
+llama_perf_context_print:       total time =    5570.93 ms /    66 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+          /\_/\
+  /\    /\ ~" " ~\
+ //\\ _ \/     \ \
+  \ \/  \      | |
+   \   \ \__   | |
+    \   \__\   | |
+     \__\   \__)| )
+          \___)))/
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    6111.68 ms /    67 runs   (   91.22 ms per token,    10.96 tokens per second)
+llama_perf_context_print:       total time =    6157.78 ms /    68 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+   |\__/,|
+   |o o  |
+   ( T   )
+  .^`^--'^.
+ `.  ;  .'
+ | | | | |
+((_((|))_))
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4109.97 ms /    48 runs   (   85.62 ms per token,    11.68 tokens per second)
+llama_perf_context_print:       total time =    4140.50 ms /    49 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+ascii>
+     )\   _,
+     | "^" (
+     (e  a )
+    =-\Y  -=
+       T"^)   _
+      /   (  ((
+     /    < _ ';,
+    (      ) )  \\
+     \ Y  '  /  ))
+      || ;  /   //
+      )| ( (__,</
+    c{{i.}}=oo-^ 
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    8020.12 ms /    93 runs   (   86.24 ms per token,    11.60 tokens per second)
+llama_perf_context_print:       total time =    8082.93 ms /    94 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+                  __         __
+                 `  )      (  '
+  .-=-.          \` (       ) '
+  ( .-. )         /   `----'  \
+  '  `  '        {      /     |
+    `   '__,     `.__,.'      '
+      '`   `)    /    \     /
+          `'   \__>   <__,'
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    7889.13 ms /    89 runs   (   88.64 ms per token,    11.28 tokens per second)
+llama_perf_context_print:       total time =    7950.46 ms /    90 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+          /\____/\    __
+          ^^  ^ ^^  /  \___
+  __ __   ((____))) | __ __
+(  \ \ \_  '(___)'  / (  \ \_
+) ) ) ) )          ( ) ) ) )
+( ( ( ( (__________\ ( ( ( (
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    6574.04 ms /    77 runs   (   85.38 ms per token,    11.71 tokens per second)
+llama_perf_context_print:       total time =    6625.69 ms /    78 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  )\._.,--....,'``.
+ /,   _.. \   _\  (`._ ,.
+`._.-(,_..'--(,_..'`-.;.' 
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    3940.77 ms /    46 runs   (   85.67 ms per token,    11.67 tokens per second)
+llama_perf_context_print:       total time =    3969.83 ms /    47 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+                        _
+                       | \
+                       | |
+                       | |
+  |\                   | |
+ /, ~\                / /
+X     `-.....-------./ /
+ ~-. ~  ~              |
+    \             /    |
+     \  /_     ___\   /
+     | /\ ~~~~~   \ |
+     | | \        || |
+     | |\ \       || )
+     (_/ (_/      ((_/
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    8124.42 ms /    90 runs   (   90.27 ms per token,    11.08 tokens per second)
+llama_perf_context_print:       total time =    8186.12 ms /    91 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+                 _ |\_      
+                /\ )\ \    
+          _ _  / \(\ ) )__ 
+         \ 'M/  / _// /_  
+          \  __/  (__/  _  
+          /  _      (  /   
+          \__|      )\__   
+               ||  ||
+              (_/ (_/
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    6844.30 ms /    79 runs   (   86.64 ms per token,    11.54 tokens per second)
+llama_perf_context_print:       total time =    6895.83 ms /    80 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  |\__/,|
+  |o o  |
+  ( T   )
+ .^`^--'^.
+ `.  ;  .'  
+ | | | | |
+((_((|))_))
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4056.65 ms /    47 runs   (   86.31 ms per token,    11.59 tokens per second)
+llama_perf_context_print:       total time =    4085.98 ms /    48 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+   __         ___      ___   _/'
+   \ \       /   \    /   \ / )
+    \ \__   /     \  /     X /
+     \___/___      \(     X/
+                   \   X
+                     X
+                   /_\`
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    5601.56 ms /    64 runs   (   87.52 ms per token,    11.43 tokens per second)
+llama_perf_context_print:       total time =    5643.76 ms /    65 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+ascii>
+  ∧,,,∧
+(  ̳• · • ̳)
+/    づ
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    3096.31 ms /    29 runs   (  106.77 ms per token,     9.37 tokens per second)
+llama_perf_context_print:       total time =    3116.02 ms /    30 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+ascii>
+   (\_/)
+( =(^Y^)=
+\_(m___m)
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    2101.85 ms /    24 runs   (   87.58 ms per token,    11.42 tokens per second)
+llama_perf_context_print:       total time =    2116.53 ms /    25 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  A_A
+ (-.-)
+  |-|  
+ /   \ 
+|     |  __
+|  || | |  \___
+\_||_/_/
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    3544.23 ms /    42 runs   (   84.39 ms per token,    11.85 tokens per second)
+llama_perf_context_print:       total time =    3569.94 ms /    43 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+ascii>
+     _     _
+    /\`-"-`/\
+    )` _ _ `(
+(`\ |=  Y  =|
+ ) )_\  ^  /_
+( (/ ;`-u-`; \
+ \| /       \ |
+  \ \_ \ / _/ /
+  (,(,,)~(,,),)
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    6468.33 ms /    75 runs   (   86.24 ms per token,    11.59 tokens per second)
+llama_perf_context_print:       total time =    6515.31 ms /    76 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+    /\_____/\
+   /  o   o  \
+  ( ==  ^  == )
+   )         (
+  (           )
+ ( (  )   (  ) )
+(__(__)___(__)__)
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    4506.07 ms /    52 runs   (   86.66 ms per token,    11.54 tokens per second)
+llama_perf_context_print:       total time =    4540.83 ms /    53 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  .       .         
+  \`-"'"-'/
+   } 6 6 {       
+  =.  Y  ,=   
+(""-'***`-"")  
+  `-/     \-'            
+    (  )-(  )===' 
+    ""   ""
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    5616.02 ms /    62 runs   (   90.58 ms per token,    11.04 tokens per second)
+llama_perf_context_print:       total time =    5655.59 ms /    63 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+  /\_/\  (
+ ( ^.^ ) _)
+   \"/  (
+ ( | | )
+(__d b__)
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    2706.89 ms /    32 runs   (   84.59 ms per token,    11.82 tokens per second)
+llama_perf_context_print:       total time =    2727.34 ms /    33 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+ /\_/\
+( o o )
+==_Y_==
+  `-'
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    1866.88 ms /    22 runs   (   84.86 ms per token,    11.78 tokens per second)
+llama_perf_context_print:       total time =    1880.47 ms /    23 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+                      __,,,,_
+       _ __..-;''`--/'/ /.',-`-.
+   (`/' ` |  \ \ \\ / / / / .-'/`,_
+  /'`\ \   |  \ | \| // // / -.,/_,'-,
+ /<7' ;  \ \  | ; ||/ /| | \/    |`-/,/-.,_,/')
+/  _.-, `,-\,__|  _-| / \ \/|_/  |    '-/.;.\'
+`-`  f/ ;      / __/ \__ `/ |__/ |
+     `-'      |  -| =|\_  \  |-' |
+           __/   /_..-' `  ),'  //
+       fL ((__.-'((___..-'' \__.'
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =   16034.54 ms /   180 runs   (   89.08 ms per token,    11.23 tokens per second)
+llama_perf_context_print:       total time =   16166.88 ms /   181 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+    ,_         _,
+    |\\.-"""-.//|
+    \`         `/
+  /    _   _    \
+  |    a _ a    |
+  '.=    Y    =.'
+    >._  ^  _.<
+    /   `````   \
+    )           (
+  ,(           ),
+  / )   /   \   ( \
+  ) (   )   (   ) (
+  ( )   (   )   ( )
+  )_(   )   (   )_(-.._
+(  )_  (._.)  _(  )_, `\
+  ``(   )   (   )`` .' .'
+    ```     ```   ( (`
+                    '-'
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =   13554.75 ms /   154 runs   (   88.02 ms per token,    11.36 tokens per second)
+llama_perf_context_print:       total time =   13666.55 ms /   155 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+ascii>
+    /\-/\
+   /a a  \                                 _
+  ZzZ     |                            /   \\
+  ' a   a |                           |    ||
+    _\_/  |__                     __,'    ,,'.
+   ('--'  _)  \_______________.....'  /   ,' /,
+            `-------------o__________|  ,,' /,
+                _________     ______| ,' /,
+               |        |    |      | ,' /,
+               |  \_/  |    |      | ,' /,
+               |  | |  |    |      | ,' /,
+               |  | |  |    |      | ,' /,
+               |  | |  \___|      | ,' /,
+  o       o    \_)_)__),_______  ,' ,'
+ ---.     ---\---/ ---.      ,' ,'
+  \  \_     \  \  \ \  \    ,' ,llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =   19776.33 ms /   200 runs   (   98.88 ms per token,    10.11 tokens per second)
+llama_perf_context_print:       total time =   19939.90 ms /   201 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<asciiLlama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+>
+            .-o=o-.
+            (  T  )
+              _/
+    /`.       / \\
+   (               )
+    \ \.___..._,'  //
+     \ '.      .' /
+     '  `-u-_'  /
+       /     \ \
+      /       \ \_
+    ,'         \  `.
+    |           `-; ')
+    |             ) )
+    )           ,   \
+    \         ,'     |
+    _\_\___,'       |
+    `_')        |  |
+        `------/| |
+            | | |
+            | | |
+            | | |
+            \_)_)_)
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =   15861.70 ms /   136 runs   (  116.63 ms per token,     8.57 tokens per second)
+llama_perf_context_print:       total time =   15978.96 ms /   137 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+ascii>
+ /\_/\
+( o.o )
+ > ^ <
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    1692.85 ms /    17 runs   (   99.58 ms per token,    10.04 tokens per second)
+llama_perf_context_print:       total time =    1704.32 ms /    18 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+ascii>
+  /\**/\
+ ( o_o  )_)
+ ,(u  u  ,),
+{}{}{}{}{}{}
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =    3705.90 ms /    31 runs   (  119.55 ms per token,     8.37 tokens per second)
+llama_perf_context_print:       total time =    3730.07 ms /    32 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+<ascii>
+          /\____/\    __
+  __      /  o   o \  __(__
+ /  \__ __\     |  |____  \ __
+(  /  _(_/    _/_  /  /  /  \______
+ \ \ /  \    /  /  \  \  \_/ _____ /
+  \___/    /  /   \__\/  \______ /
+      ____/  /    / _____/ __  /
+    _(______\   /  _(____(____/
+  (__________\__(_______)
+</ascii>
+llama_perf_context_print:        load time =    6062.67 ms
+llama_perf_context_print: prompt eval time =       0.00 ms /     1 tokens (    0.00 ms per token,      inf tokens per second)
+llama_perf_context_print:        eval time =   14135.87 ms /   130 runs   (  108.74 ms per token,     9.20 tokens per second)
+llama_perf_context_print:       total time =   14251.27 ms /   131 tokens
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<Llama.generate: 19 prefix-match hit, remaining 1 prompt tokens to eval
+ascii>
+   |\__/,|
+  ggml_metal_free: deallocating
