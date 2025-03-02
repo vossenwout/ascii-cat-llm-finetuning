@@ -34,12 +34,12 @@ I wanted to finetune a model I could run locally but quantization seemed to mess
 The finetuning was done using [Unsloth](https://unsloth.ai/blog/deepseekr1-dynamic) with the following notebook on google colab: [src/finetuning/google-colab/train.ipynb](src/finetuning/google-colab/train.ipynb).
 
 
-Resulting ascii cat adapter (finetuned for 10 epochs):
+Resulting ascii cat lora adapter (finetuned for 10 epochs):
 - [Llama-3.2-3B-ascii-cats-lora-GGUF](https://huggingface.co/pookie3000/Llama-3.2-3B-ascii-cats-lora-GGUF)
 
 ## Inference
 
-To generate new ascii cats using my trained adapter, you can use the following notebook which uses llama.cpp [src/inference/notebooks/llama_cpp_inference.ipynb](src/inference/notebooks/llama_cpp_inference.ipynb).
+To generate new ascii cats using my trained lora adapter, you can use the following notebook which uses llama.cpp [src/inference/notebooks/llama_cpp_inference.ipynb](src/inference/notebooks/llama_cpp_inference.ipynb).
 
 In order to run the notebook, you need to locally download both the llama3.2 3b gguf model and the ascii cat adapter in gguf format.
 
