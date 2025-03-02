@@ -41,7 +41,7 @@ Resulting ascii cat adapter (finetuned for 10 epochs):
 
 To generate new ascii cats using my trained adapter, you can use the following notebook which uses llama.cpp [src/inference/notebooks/llama_cpp_inference.ipynb](src/inference/notebooks/llama_cpp_inference.ipynb).
 
-In order to run the notebook, you need to locally download both the llama3.2 3b gguf model and the ascii cat adapter.
+In order to run the notebook, you need to locally download both the llama3.2 3b gguf model and the ascii cat adapter in gguf format.
 
 - [Llama-3.2-3B-GGUF](https://huggingface.co/pookie3000/Llama-3.2-3B-GGUF)
 - [Llama-3.2-3B-ascii-cats-lora-GGUF](https://huggingface.co/pookie3000/Llama-3.2-3B-ascii-cats-lora-GGUF)

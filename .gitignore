@@ -130,3 +130,5 @@ src/inference/local_models/
 
 
 src/local_models/
+
+.DS_Store
