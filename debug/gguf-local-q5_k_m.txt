@@ -1,0 +1,700 @@
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+   /\_/\           _
+  /``   \         / /\
+ /  `--. \       / /  \
+/  /  \ \ \__   / /    |
+ \__\  / / `_ \ / /    |
+  __\/ / / ___)/ /__   /
+(____pts____) (_____)
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+    /\____/\     __   ___  ___   __
+   / /     \   /  \ /   / |   \|  \ 
+   \ \     /   \   //   /  |    \   \\
+    / /     \   / / |   \   \    \   \\
+   / /       \ / /  |    \   \   | /\  \
+  /_/         \ \   |     \   \  |  \ \ \
+        /      \ \  |      \   \ |   \ \ \ 
+        \       \ \ |       \   \|    \|  \| 
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+ |\_._/|
+  o`o   \
+ (  T  ) |
+  `--^--'
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+    /\_/\             _  _  _  _  _  _  _  _  
+   /  _  \         __/    \__/    \__/    \__
+  (  @  @  )       /  /     /     /     /  /
+   \  >  /  ______\  \     /     /     /  /_
+    `-----'        \  \   /     /     /  /  \
+                    \  \_/     /     /  /    |
+                     \______/     \____\     |
+                           |         |     |
+                           |         |     \ / 
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+  /\_/\  (
+ ( ^.^ )  )
+  \_^_Y/  )
+  `-----`/
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+    /\__/\
+   /`    `\  _
+  /  _     \//
+ /  (  )   // \
+(  )   (   // /
+ \  (   ) // /
+  \  ) ( // \\
+   ( () //   \\
+    \_//     \\
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+    _     _
+   /\`-"-'/\/
+   )  , ,  (
+  /`--Y--'\
+ (     T    )
+  \   `--'  /
+  /\_  _/\/
+ / /`-'/\
+( (  /  ) )
+ \ \-(  )/
+  \  \ //
+  /  _( )
+(__(__) )
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+    /\_/\        (
+   /  _  \       )\\
+  (  @  @  )----<= --
+   \__)_) /      /
+   /`""`\       (
+  /      \       )
+ /        \__   /
+|          |\\
+ \         | ||
+  \ \      / / 
+   \ \   / / 
+    \ \ / /_
+     \__/ (_)
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+   (\_/)
+( =(^Y^)= )
+\_(M)_(M)_/
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+  .       .         
+  \`-"'"-'/
+   } 6 6 {       
+  =.  Y  ,=      
+  '  --  '        
+   \  ;  /         
+    `-----\       _ 
+    /      |     / \\
+    ||  |  |    /  ||
+    ||  |  |   /  .  \
+    \Y  Y/   /    \  |
+    ""   ""  \_     \ \_  
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+                  __
+          __ __  /  \ 
+  .-"'"''-.`--'   \  |  
+ /         \       |  | 
+(    .--.   )     /   ) 
+ \   /    \/\   _/   / 
+  \ \_  /  \_\(__   /  
+   (  `_`   ```  ``/  
+  /`-._)`       __(  
+ c/    )       (    \ 
+C(    (         )    )
+`\\   (       /    //
+  ``--``     ``   `"  
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+ .       .         
+=\  Y  /=       
+  `-----'       
+  |  |  |      
+  |  |  |    
+  |  |  |    
+  |  |  |      
+  |  |  |      
+  |  |  |    
+/  /  \  \     
+\  /`-\  /       
+"  `  "          
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+      /\_/\
+ /\  / o o \
+//\\ \~(*)~/
+`  \/   ^ \  
+    | \   | |
+    \  \  | |
+    (\ (\ (\ (
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+ /\_/\
+( o_o )
+ > ^ <
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+        _..---/".)
+   __..-'    '. .--.
+  '.__.'      `      '.
+    /  _       __     `.-.
+  _.'  A\.-""".-'`\   //  \
+  _).  _/ `     ,-    `._  |
+'.(.-'"  )_    /   /_    |
+  '-...--'  '-;   /  `---'
+             `---'
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+   |\_._/| 
+   | o o | 
+   (  T  ) 
+  .^`-^-'^. 
+  `.  ;  .' 
+    '-u-' 
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+        /)
+       ((
+        ))
+  .-""-.//
+=-.   . =-
+  \ )-`( /
+  `  ^  `
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+          /\_/\
+/\     / o o \
+\ \    /   T   \
+ / /  / >  ^  < \
+/ /  /   /     \
+     \   \     /
+      \   \   /
+       \   \ /
+        \   *
+  __      /   /
+ /  \----/   /_
+/    \   /   /
+     /   \   \
+     \    \   |
+      \    \  |
+       \    \ \
+        \    \ \___
+          \  /     \__
+            \______\  \
+            /       \  |
+            |        | |
+            |        | |
+            |        | |
+            \_     _/ /
+             | |   | |
+             | |   | |
+             | |   | |
+             |_|   |_|
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+   |\_._/|  
+   | o o |  
+   (  T  )  
+  .^`-^-'^.  
+ ('``o_o''`) 
+  `)   Y  (`
+  /      \  \
+(  )----(  )
+  `-__Y__-`  
+        `,---.'  
+         `     \'--._
+    _  _/    _ .'    `'._  
+   (  /.-.  (  \     /    )  
+    ) /  .  )   \   /     \  
+   ( (   ) (     ) (      ) )  
+    \ \ /  /     \ \    / /  
+     `'-'  /     `'`.~' .'  
+         (       /  (   /  
+           `.   (    ) (  
+             )  `.  (  .'  
+           '----)  `.~  (  
+                     `'   `'
+</
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+ /\_/\
+( o o )
+==_Y_==
+  `^`
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+   /\_/\
+  ' o o '
+  (     )
+ (     )
+  \  ^  /
+  /   ^\
+(     )
+ \     /
+  \   /
+  ( ) ( )
+  (   )
+ (     )
+(     )
+ \   /
+  \ /_/
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+ ,_     _,
+(.-''`--.')
+    _,-' `-._
+  .'         `.
+  _           `.
+(.-)         .-'
+  _.-.---.-(`
+(.-/     \-.)
+  `-._.-
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+  /\__/\
+ / a a \
+(   ^   )
+ \ >#< /
+  )     \
+ /       \
+ |       |
+  \_/|_|_\/
+  / / \ \
+ ( (   ) )
+  \   /
+  / | \    _
+ /   |  \_| \ 
+(     )     ) )
+  \   /     ( (
+  /   \     ) )
+(     )   ( (
+  \   /     ) )
+   \ /     ( ( 
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+          / )
+         / /    __
+        / /   /  \ \
+       / /   /  /  /
+      / /   /  /  /
+     ( (   (  (  ( \
+     \ \   \ \ \ \ \ 
+      \ \   \ \ \ \ \ \
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+   (\_/)
+( =(^Y^)= )
+\_(M)_(M)_/
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+        @|\@@/
+       /  @@@@\
+      | =  Y  = |
+      /   ^   \
+     /    @    \
+     \    @    /
+      \   @   /
+       \=@@/@=
+        `--`
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+    ,_         _,
+   /,`.----..'.,\
+  /    `-----'    \
+ /    /       \    \
+=    =         =    =
+  \    \       /    /
+   \    `~~~'    /
+    _,'        ','_
+   /   _         _   \
+  /   / |__   __| \   \
+  |   \  |  \_/  |  /   |
+  |    \ \   Y   / /    |
+  |     \  \   / /     |
+  \      \  \ / /      /
+  /      /  / /  \    /
+  \__   /  / /    \  /
+    || |  \ \     || 
+    \\|   \ \    // 
+      \    \ \  //    
+        \   \_\//
+          \__/
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+    /\__/\
+   /`    `\  __
+  /  `._  ` /  \
+ /  _  \  _(    )
+( (___) )_\   /
+ \____/'----' 
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+    /\_/\
+( >^.^<) 
+  `d b`
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+        /\____/\  (
+  __    @  @  @   ) 
+ /  \   (___E___,'
+(  /|      /\\
+ \ \:     /  \\
+  \ \   /    \\
+   \ \ \\    ||
+    (  ( (  ( 
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+  A_A
+ ( (  )
+  \  \/\
+   )     (
+  /       \
+ /  (  )  \ \
+/    \/    \ \
+\    /     / /
+ \  /      \_))
+  )/        )
+ (|   (   ) |
+ (|   )   ( |
+ ((___))   ( 
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+        .-o=o-.
+    =/     ^     \=.
+    /     @     @   \.
+  / =/     Z     Z   \ \.
+  /   /     A     A   \ \.
+  \  `\    .-=-.=-.   / /.
+  /    \   /       \   / /.
+=\      \=\        /=/ /=
+  ummm  \  \      /  / /=
+    A    \  \    /  / /=
+      \   \  \  /  / /=
+        \  \  \   / /=
+          \ \ \ \ / /=
+            \ \ \// /
+              \ //
+                \ 
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+    /\_/\           (___)
+  =  o_o  =         /   \
+    /   \           \   /
+  | |   | |         /   \ 
+  \|  /  |/"""""""""""""""\
+  /\ |\ |\              | |
+ /  fatalError()  \      | |
+/               \__     / /
+\               /  \___/ /
+ \             /      / /
+  ||  /  /  | |     / / 
+  \\ \/  /  /_/     \ \___
+  ((/  (__(___/       (____
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+  /\-/\
+ / a a \               _
+=\_Y_=/______________/ (\
+  `===' \_____________/   )
+ /       \            /  /
+=\_       |__________| / /
+  `=___________/      ( (
+    \            \     \ \\
+     \            |     \ \\_
+      \______     |      \ \\\
+        \    \____|       // ##
+          \__________________/ # 
+</ascii>
+
+Generate ascii art that matches the following description.
+
+### description:
+cat
+
+### ascii visualization:
+
+<ascii>
+                 _..
+            _..='-:=.M8
+          .-'     `--'
+      

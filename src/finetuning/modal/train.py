@@ -42,8 +42,8 @@ def create_model(
         "bias": "none",
         "use_gradient_checkpointing": "unsloth",
         "random_state": 3407,
-        "use_rslora": False,  # We support rank stabilized LoRA
-        "loftq_config": None,  # And LoftQ
+        "use_rslora": False,
+        "loftq_config": None,
     }
 
     target_modules = [
@@ -73,15 +73,13 @@ def prepare_dataset(hf_dataset_name: str, tokenizer: Any) -> Dataset:
 
     def formatting_prompts_func(examples):
         ascii_art_samples = examples["ascii"]
-        content_samples = examples["content"]
         training_prompts = []
-        for ascii_art, content in zip(ascii_art_samples, content_samples):
+        for ascii_art in ascii_art_samples:
             training_prompt = (
-                OUTPUT_ASCII_PROMPT.format(description=content, ascii_art=ascii_art)
+                OUTPUT_ASCII_PROMPT.format(description="cat", ascii_art=ascii_art)
                 + EOS_TOKEN
             )
             training_prompts.append(training_prompt)
-        # TRL SFT Trainer expects text field
         return {
             "text": training_prompts,
         }
@@ -129,7 +127,6 @@ def train(
             dataset_num_proc=2,
             packing=False,
             num_train_epochs=epochs,
-            # max_steps=100,
             warmup_steps=5,
             learning_rate=2e-4,
             fp16=not torch.cuda.is_bf16_supported(),
@@ -155,6 +152,7 @@ def train(
 
 @app.local_entrypoint()
 def main():
+    # PARAMS
     base_model = "unsloth/Meta-Llama-3.1-8B-bnb-4bit"
     hf_dataset_name = "pookie3000/ascii-art-animals"
     hf_save_lora_name = "pookie3000/ascii-art-cats-lora-v1"

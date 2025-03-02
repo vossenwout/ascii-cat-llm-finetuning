@@ -1164,6 +1164,27 @@ files = [
 ]
 
 [[package]]
+name = "mistralrs"
+version = "0.4.0"
+description = "Fast and easy LLM serving."
+optional = false
+python-versions = ">=3.10"
+files = [
+    {file = "mistralrs-0.4.0-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:3f57fca796dc13ce4e14bc6c5f981a6d65a5963bab005e444365bd5f4a793812"},
+    {file = "mistralrs-0.4.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:8ed90f49eab7c5dbc81d8154415b8a8d6fcd6e03652f6baf0661634679bd23e9"},
+    {file = "mistralrs-0.4.0-cp310-cp310-manylinux_2_39_x86_64.whl", hash = "sha256:dd4c780d58babac7ed900fee51b941e70600cb2546b7601a2e2ab75e5e443d94"},
+    {file = "mistralrs-0.4.0-cp310-none-win_amd64.whl", hash = "sha256:463e936e80374a3e674993e10222f65da16d6a35e054320940b1e80787920360"},
+    {file = "mistralrs-0.4.0-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:8227b815f06a4de203c880ee1d4a95e927a1b4b41266a7d74fb9c6fb09d936e4"},
+    {file = "mistralrs-0.4.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:5faf480392e6fcc5ae0f26af76309c605a501e397c77151091a1a98d874a521e"},
+    {file = "mistralrs-0.4.0-cp311-cp311-manylinux_2_39_x86_64.whl", hash = "sha256:77913423723cdcef5f4807aeac86d5ba196d4341cbe61e9c35511c357515d59c"},
+    {file = "mistralrs-0.4.0-cp311-none-win_amd64.whl", hash = "sha256:6265a29211a20fa3f0632f8c1a25d8ab39f75d48cd962d35c3fc9d298ca44fce"},
+    {file = "mistralrs-0.4.0-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:7245671fc732214908c7e9ef90705d4b2ba53902b607aa4975aabbc4d6f4d5f3"},
+    {file = "mistralrs-0.4.0-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:4370909af54829c83586d5af499920a29a54cd56c815336a11746f0507c857e0"},
+    {file = "mistralrs-0.4.0-cp312-cp312-manylinux_2_39_x86_64.whl", hash = "sha256:8ff3e72bc75e5bba3557c01ea82c3106c0fb2bf5e0e892b4485a7ec78fd01dba"},
+    {file = "mistralrs-0.4.0-cp312-none-win_amd64.whl", hash = "sha256:887509d981fbbe63e5af36308580e65df886108adf0d1ebb171df5d3b498aff4"},
+]
+
+[[package]]
 name = "modal"
 version = "0.73.45"
 description = "Python client library for Modal"
@@ -3336,4 +3357,4 @@ propcache = ">=0.2.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "f1988070702edb94a7720074c43444a8e852299438ca5e1de807d1edd3e08f04"
+content-hash = "8a0262bd99303df1639fed994c6bc6df3efd5586fb77122bca5e2cb5165c5c72"

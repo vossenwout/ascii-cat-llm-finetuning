@@ -7,8 +7,7 @@ def create_dataset(path: Path, version_tag: str) -> None:
     paths = []
     for file in path.glob("**/*.txt"):
         txt_file = file
-        meta_file = file.parent / "meta.json"
-        paths.append({"ascii": txt_file, "meta": meta_file})
+        paths.append({"ascii": txt_file})
     paths.sort(
         key=lambda x: (x["ascii"].parent.parents[0], int(x["ascii"].parent.name))
     )
@@ -17,14 +16,12 @@ def create_dataset(path: Path, version_tag: str) -> None:
     for path in paths:
         with open(path["ascii"], "r") as f:
             ascii_art = f.read()
-        with open(path["meta"], "r") as f:
-            meta = json.load(f)
+
         dataset_items.append(
             {
                 "ascii": ascii_art,
                 "creature": str(path["ascii"].parent.parent.name),
-                "local_path": str(path["ascii"]),
-                **meta,
+                # "local_path": str(path["ascii"]),
             }
         )
 
@@ -37,4 +34,4 @@ def create_dataset(path: Path, version_tag: str) -> None:
 
 
 if __name__ == "__main__":
-    create_dataset(path=Path("src/dataset/ascii_art/animals/cat"), version_tag="cat_3")
+    create_dataset(path=Path("src/dataset/ascii_art/animals/cat"), version_tag="cat_5")
