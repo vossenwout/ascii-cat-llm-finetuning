@@ -1,4 +1,4 @@
-# LLM ASCII CAT GENERATION
+# ASCII CAT LORA FINETUNING
 
 All popular LLMs are pretty bad at generating ascii art, so I wanted to find out whether it's possible to improve the ascii generation capabilities using supervised finetuning. As a proof of concept, I trained a LORA adapter for Llama 3.2 3B to generate ascii art of cats.
 
