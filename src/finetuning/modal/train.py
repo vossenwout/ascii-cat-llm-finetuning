@@ -1,4 +1,6 @@
 # type: ignore
+# Script I used for my finetuning experimentation on modal
+# https://modal.com/docs
 
 import modal
 from typing import Any
@@ -143,7 +145,7 @@ def train(
     )
 
     # Train and save
-    trainer_stats = trainer.train()
+    trainer.train()
     model.push_to_hub(hf_save_lora_name, token=os.environ["HF_ACCESS_TOKEN"])
     tokenizer.push_to_hub(hf_save_lora_name, token=os.environ["HF_ACCESS_TOKEN"])
 

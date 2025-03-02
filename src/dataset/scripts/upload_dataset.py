@@ -5,6 +5,8 @@ from datasets import Dataset, load_dataset
 from huggingface_hub import login
 from dotenv import load_dotenv
 
+# Script used to upload datasets to huggingface.
+
 load_dotenv(
     "config/.env",
 )
@@ -36,7 +38,3 @@ if __name__ == "__main__":
         path=Path("src/dataset/out/ascii_art_cat_5.parquet"),
         dataset_name="ascii-cats",
     )
-    # dataset = pull_dataset(
-    #    dataset_name="pookie3000/ascii-art-animals",
-    #    output_path=Path("src/dataset/in/pookie3000/ascii-art-animals"),
-    # )

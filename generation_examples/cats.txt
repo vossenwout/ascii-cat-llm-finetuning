@@ -1,0 +1,186 @@
+Generation config:  {'temperature': 1.4, 'top_p': 1, 'min_p': 0.0, 'frequency_penalty': 0.0, 'presence_penalty': 0.0, 'repeat_penalty': 1.0, 'top_k': 50}
+
+       /)
+       ((
+        ))))
+   ,   //,
+  /_\ "(\ 
+( o o ) the only person who knows it are the two of us.
+~~ ~~~  I like to call them the two fuses.  
+  \_)_)>    
+   "" ""
+
+
+.       .         
+\-"'"-'/
+ } - - {     
+=.  @  ,=   
+  /^^^\  .
+ /     \  )           
+(  )-(  )/ 
+""   ""
+
+
+ |\_._/|
+ =6__6=C
+ =-**= 
+  /;~\:\
+ (@%@{})
+"" "| "_|
+
+Generation config:  {'temperature': 1.2, 'top_p': 1, 'min_p': 0.0, 'frequency_penalty': 0.0, 'presence_penalty': 0.0, 'repeat_penalty': 1.0, 'top_k': 50}
+
+                    _..
+ /}_{\           /.-'
+( O O )-.___...-'/
+== ~~~ ==       ;
+      \ i _..._ /,
+      {_;/   {_//
+
+
+,\__/\
+( o o )
+==_Y_==
+  `-'
+
+
+Generation config:  {'temperature': 1.5, 'top_p': 1, 'min_p': 0.0, 'frequency_penalty': 0.0, 'presence_penalty': 0.0, 'repeat_penalty': 1.2, 'top_k': 50}
+
+
+/\_/\
+( o.o )
+( u. u )
+
+
+                  _..
+ /}_{\           /.-'
+( XxX )-.___...-'/
+== ~~~ ==       ;
+      \ i _..._ /,
+      {_;/   {_{;\
+
+
+        ┳┳,
+ /\__/||\\  (\
+( ^ ^= ')' ).
+((_(__| (_/
+ shall be lost
+
+
+
+Generation config:  {'temperature': 1.3, 'top_p': 1, 'min_p': 0.0, 'frequency_penalty': 0.0, 'presence_penalty': 0.0, 'repeat_penalty': 1.2, 'top_k': 50}
+
+Chinese cat??
+
+  （  、   ,
+ )、,( 自卑 的一面
+=".=`       去做自己想做的事情  
+  `-'\  _  /     不需要别人来告诉你怎么活的好 
+    (_.-)   
+      )'-._
+((----'(--&
+
+
+  |\__/|   (_) 
+  |o  o| __ _ _( _
+  (^^) )(Stuff cool )
+   )~(   $__\   `$__
+  /;__/   |_ pains
+ (_;|  );/);)
+(,,,)(,,_)
+
+
+
+       /)
+       ((
+        ))
+   ,   //,
+  /,\="=/,\
+ /` o   o `\
+=\:.  ^.:/=
+ /.^`\__)/_.-`
+( (   )--( )
+ \\/_|_(/ Blizzard Gaming
+
+
+
+  |\__/|   (`\  
+ |o  o| __ _) )  
+_( T   ).(__/
+((_ `^--' /_<  
+
+
+    ,
+ /\_/\
+( o O )  \
+  >_< /
+ /   \ 
+|  | |
+\__|__/
+
+
+/\,,,/\
+( " " )
+( ~ ~ )
+\ >Y< / _
+)_((_.:
+/ ' \___/
+|   |___?
+|,-' |_-;
+(__'-.__-
+
+
+   /\_/\         _
+  /``   \       / )
+ |• •   |__    ( (
+=(Y =.'`___\   (\\
+ {:; {~~~~~~~} }})
+
+
+Generation config:  {'temperature': 1.3, 'top_p': 0.9, 'min_p': 0.0, 'frequency_penalty': 1.2, 'presence_penalty': 0.4, 'repeat_penalty': 1.2, 'top_k': 100}
+
+
+.       .         
+\-"'"-'/
+ } ^^ {     
+=.  -  ,=   
+  /^^^\  .
+ /     \  )           
+(   Y   ) |
+=""'""...'Y 
+
+
+
+                   _..
+ /}_{\           /.-'
+( > < )-.___...-'/
+== 🐹 ==        ;
+      \ i _..._ /
+     ._)(,_')_/_;
+
+
+Generation config:  {'temperature': 1.4, 'top_p': 0.9, 'min_p': 0.0, 'frequency_penalty': 1.2, 'presence_penalty': 0.4, 'repeat_penalty': 1.2, 'top_k': 150}
+
+ _
+//
+||              |\_/|
+ \\  .-"""--._,' e b 
+  \\/         \   =A/
+   \    \       /'
+    \| _|___/\ |
+     '-'-------'-
+
+
+    
+Generation config:  {'temperature': 1.5, 'top_p': 1, 'min_p': 0.0, 'frequency_penalty': 1.2, 'presence_penalty': 0.4, 'repeat_penalty': 1.2, 'top_k': 150}
+
+
+  ^—-^    
+(_='.')
+
+
+,,,
+,\=\_=_/(
+` = ^Y^='
+』 づ≖ 
+ MORE LOVE!        

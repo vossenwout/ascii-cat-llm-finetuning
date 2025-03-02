@@ -58,6 +58,3 @@ def main():
 
 # run using
 # modal run src/conversion/modal/convert_gguf.py
-
-
-# !!! DOE GEWOON https://huggingface.co/spaces/ggml-org/gguf-my-repo

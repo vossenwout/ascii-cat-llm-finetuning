@@ -3,6 +3,9 @@ from pathlib import Path
 import pandas as pd
 
 
+# Script used to visualize the dataset.
+
+
 def visualize_parquet_dataset(dataset_parquet_path: Path) -> None:
     df = pd.read_parquet(dataset_parquet_path)
     ascii_art_string = ""

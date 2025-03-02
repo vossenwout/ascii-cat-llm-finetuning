@@ -1,6 +1,8 @@
-import json
 from pathlib import Path
 import pandas as pd
+
+
+# Script I used to create a pandas dataset of ascii art which I can use to train my ASCII adapters.
 
 
 def create_dataset(path: Path, version_tag: str) -> None:
@@ -21,7 +23,6 @@ def create_dataset(path: Path, version_tag: str) -> None:
             {
                 "ascii": ascii_art,
                 "creature": str(path["ascii"].parent.parent.name),
-                # "local_path": str(path["ascii"]),
             }
         )
 
